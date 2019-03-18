@@ -1,0 +1,85 @@
+
+/* xx: top right bottom left; */
+
+body{
+	background-color: #888888;
+	transition: 0.2s;
+	font-family: 'Hind Guntur', sans-serif;
+}
+
+a{
+	color: white;
+}
+
+a:hover{
+	color: #e2e2e2;
+	text-decoration: none;
+}
+
+.full-content {
+    max-width: 1000px;
+    margin: auto;
+    display: block;
+}
+
+.profile-image{
+	width: 200px;
+	height: 200px;
+}
+
+.row{
+	padding: 5px 0px 5px 0px;
+	margin: auto;
+}
+
+.summary-bg{
+	background: #888888;
+}
+
+.summary-info{
+	/*background: #f4f4f4;*/
+}
+
+.summary-image{
+
+}
+
+.summary-text{
+	margin: auto;
+	color: #ffffff;
+}
+
+.summary-text h1{
+	margin: 0;
+}
+
+.interests-bg{
+	background: #980000;
+}
+
+.education-bg{
+	background: #984500;
+}
+
+.research-bg{
+	background: #a77f03;
+}
+
+.experience-bg{
+	background: #0c8900;
+}
+
+.portfolio-bg{
+	background: #004b83;
+}
+
+.section-name{
+	padding: 15px 0 0px 0;
+	color: white;
+}
+
+
+
+
+
+
