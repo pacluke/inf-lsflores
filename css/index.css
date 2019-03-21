@@ -91,7 +91,43 @@ a:hover{
   margin: 15px 0px 15px 25px;
 }
 
+.port-image{
+	height: auto;
+	width: 60%;
+	padding: 10px;
+}
 
+.port-image-padding{
+	border: 1px solid #cfcfcf;
+	border-radius: 5px;
+}
 
+.content-title{
+	font-size: 30px;
+	font-weight: bold;
+	padding-left: 15px;
+	padding-right: 15px;	
+}
+.content-subtitle{
+	font-size: 20px;
+	font-weight: normal;
+	margin-bottom: 0px;
+	padding-left: 15px;
+	padding-right: 15px;	
+}
+
+.content-subtitle2{
+	font-size: 17px;
+	font-weight: normal;
+	margin-bottom: 0px;
+	padding-left: 15px;
+	padding-right: 15px;	
+}
+.content-sub-subtitle {
+	font-size: 15px;
+	font-weight: lighter;
+	padding-left: 15px;
+	padding-right: 15px;
+}
 
 
