@@ -2,7 +2,7 @@
 /* xx: top right bottom left; */
 
 body{
-	background-color: #888888;
+	background-color: #527c90;
 	transition: 0.2s;
 	font-family: 'Hind Guntur', sans-serif;
 }
@@ -27,13 +27,19 @@ a:hover{
 	height: 200px;
 }
 
+.social-image{
+	width: 40px;
+	height: 40px;
+	margin: 15px 10px 10px 0px;
+}
+
 .row{
 	padding: 5px 0px 5px 0px;
 	margin: auto;
 }
 
 .summary-bg{
-	background: #888888;
+	background: #527c90;
 }
 
 .summary-info{
@@ -78,6 +84,12 @@ a:hover{
 	color: white;
 }
 
+.vl {
+  border-left: 1px solid white;
+  height: 50px;
+  float: right;
+  margin: 15px 0px 15px 25px;
+}
 
 
 
